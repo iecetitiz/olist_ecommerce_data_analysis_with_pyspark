@@ -1,6 +1,6 @@
 # 🛒 Olist E-Commerce Data Analysis with PySpark
 
-A end-to-end data analysis project on the **Brazilian Olist E-Commerce dataset**, built with **PySpark** and structured around a **medallion architecture** (Bronze → Silver). The project covers data preprocessing, cleaning, and exploratory data analysis (EDA) across 8 interconnected datasets.
+An end-to-end data analysis project on the **Brazilian Olist E-Commerce dataset**, built with **PySpark** and structured around a **medallion architecture** (Bronze → Silver). The project covers data preprocessing, cleaning, and exploratory data analysis (EDA) across 8 interconnected datasets.
 
 ---
 
